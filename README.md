@@ -137,7 +137,7 @@ Since the pre processed data still had a huge number of null values , we were in
 
 ## References:
 
-1.https://physionet.org/content/challenge-2019/1.0.0/
-2.https://www.researchgate.net/figure/Early-identification-and-management-algorithm_fig1_337829729
-2. https://youtu.be/dgYo6WnOS3E
+1) https://physionet.org/content/challenge-2019/1.0.0/
+2) https://www.researchgate.net/figure/Early-identification-and-management-algorithm_fig1_337829729
+3) https://youtu.be/dgYo6WnOS3E
 
