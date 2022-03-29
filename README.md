@@ -133,7 +133,7 @@ SMOTE was applied on the dataset to upsample the data for sepsisLabel=1.
 
 ## Modeling
 
-Since the pre processed data still had a huge number of null values , we were in a lookout for a model which can handle null values. XGBoostClassifier was the selected model and it suited best for binary classification model.The evaluation metric used is AUCROC.
+Since the pre processed data still had a huge number of null values , we were in a lookout for a model which can handle null values. XGBoostClassifier was the selected model and it suited best for binary classification model.The evaluation metric used is AUCROC and achieved a score of 81.
 
 ## References:
 
